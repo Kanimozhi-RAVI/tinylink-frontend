@@ -4,7 +4,7 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import Stats from './pages/Stats';
 import Header from './components/Header';
 import './index.css';
-import Dashboard from './Pages/Dashboard';
+import Dashboard from './components/Dashboard';
 
 function App() {
   return (

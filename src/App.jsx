@@ -1,7 +1,7 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Stats from './pages/Stats'
 import RedirectHandler from './RedirectHandler'
-import Dashboard from './Pages/Dashboard'
+import Dashboard from './components/Dashboard'
 
 export default function App() {
   return (
