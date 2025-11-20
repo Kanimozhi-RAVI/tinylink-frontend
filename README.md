@@ -48,5 +48,4 @@ A simple URL shortener web app similar to bit.ly. Users can create short links, 
 1. Clone repo:
 
 ```bash
-git clone https://github.com/Kanimozhi-RAVI/tinylink-frontend
 git clone https://github.com/Kanimozhi-RAVI/tinylink-backend
